@@ -35,8 +35,7 @@ This project focuses on cleaning and visualizing retail sales data. It covers a 
 ## Notebooks
 
 1. **retail-sales-cleaning-and-visualisation.ipynb**: Covers the data cleaning process and visualizations.
-2. **sales.ipynb**: Includes additional analysis and visualizations focusing on sales trends.
-
+   
 ## Dataset
 
 The dataset used in this project is an online retail dataset (`Online Retail.xlsx`) containing transactional sales data. 
